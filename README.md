@@ -31,4 +31,11 @@ RabbitMQ Management Portal : 15672
     &lt;artifactId&gt;spring-boot-starter-amqp&lt;/artifactId&gt;
 &lt;/dependency&gt;
 
+# application.properties    
+spring.rabbitmq.host=localhost
+spring.rabbitmq.port=5672
+spring.rabbitmq.username=guest
+spring.rabbitmq.password=guest
+
+    
 </pre>
