@@ -1,5 +1,9 @@
 <pre>
 # 下載安裝與設定:
+安裝 erlang 語言執行環境
+https://www.erlang.org/downloads
+
+安裝 rabbitmq    
 https://www.rabbitmq.com/docs/install-windows
 下載: rabbitmq-server-3.13.1.exe.asc 並安裝
 
